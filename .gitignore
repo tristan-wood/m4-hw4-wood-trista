@@ -1,4 +1,5 @@
-# Logs
+DS.Store 
+Logs
 logs
 *.log
 npm-debug.log*

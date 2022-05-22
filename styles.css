@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+    max-width: 1000px;
+    margin: auto
+}
+
+header {
+    margin: 35px;
+    font-size: 30px;
+    text-align: center;
+    word-spacing: 40px;
+}
+
+footer {
+    margin-top: 60px;
+    margin-bottom: 40px;
+    font-size: 25px;
+    text-align: center;
+    word-spacing: 40px;
+}
+
+h1 {
+    color: antiquewhite;
+    text-align: center;
+    font-size: 55px;
+}
+
+.way {
+    color: antiquewhite;
+    font-size: 18px;
+    line-height: 2;
+}
+
+
+.way .title {
+    color: crimson;
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 50 px
+    ;
+}
+
+ul > .list {
+    margin-top: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    color: antiquewhite;
+    font-style: italic;
+
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+a:link {
+    color: crimson;
+}
+
+a:visited {
+    color: antiquewhite;
+}
+
